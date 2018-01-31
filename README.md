@@ -1,18 +1,16 @@
-# This is a large heading
-## This is a smaller heading
+# Big fat title
+## Biography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Go ahead, read. Actually, *reading* is the cognitive process of decoding symbols to derive **meaning**.
 
-- This is
-- an unordered
-- list
+Reading is:
+- nice
+- funny
+- smart
 
-1. This is
-2. an ordered
-3. list
+1. Read a book.
+2. Read a magazine.
+3. Read a newspaper.
 
 Here is `some code` in the middle of a sentence.
 
